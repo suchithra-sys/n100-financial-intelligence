@@ -1,0 +1,5 @@
+rule_id,severity,table_name,message,record_count
+DQ_companies,PASS,companies,Data loaded successfully,93
+DQ_profitandloss,PASS,profitandloss,Data loaded successfully,1277
+DQ_balancesheet,PASS,balancesheet,Data loaded successfully,1313
+DQ_cashflow,PASS,cashflow,Data loaded successfully,1188
